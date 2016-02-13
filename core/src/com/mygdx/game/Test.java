@@ -8,4 +8,6 @@ public class Test {
     // hello every body!
 
     // I don't like it.
+
+    // New branch test.
 }
